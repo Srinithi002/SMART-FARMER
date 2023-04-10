@@ -1,2 +1,2 @@
 # SMART-FARMER
-The objective of this project is to render a reliable, robust, efficient and intelligent farm controller app-based system which is smart enough to analyze distinct parameters of a field like moisture, temperature, humidity, etc.
+The objective of this project is to render a reliable, robust, efficient and intelligent farm controller app-based system which is smart enough to analyze distinct parameters of a field like moisture, temperature, humidity, etc.and provide a water delivering schedule in a targeted manner near the root zone of the crop to ensure all the crops get enough water for their healthy growth, thereby reducing manual intervention of farmer.
